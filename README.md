@@ -52,6 +52,8 @@ DB_PASSWORD=super_secret_password_123
 
 ### 4. Створити таблиці в БД
 Треба запустити SQL скрипт `books_schema.sql` 
+<img width="1602" height="698" alt="image" src="https://github.com/user-attachments/assets/cbbdf100-be19-49fc-9738-02064586953d" />
+
 
 
 ## Як запустити ETL python скрипт
@@ -71,6 +73,8 @@ python books_etl.py 2025-01-01
 # Або з 15 січня
 python books_etl.py 2025-01-15
 ```
+<img width="1917" height="746" alt="image" src="https://github.com/user-attachments/assets/d1998428-353e-47f1-b174-982b9cc7d80b" />
+
 
 ### Що ви побачите в консолі
 Якщо все працює, буде приблизно таке:
@@ -84,6 +88,7 @@ python books_etl.py 2025-01-15
 --------------------------------------------------
 ETL процес завершено успішно
 ```
+<img width="746" height="160" alt="image" src="https://github.com/user-attachments/assets/d9b93064-0b14-46b3-9869-40256a1d67bd" />
 
 ## Шо скрипт робить з даними
 
@@ -100,6 +105,8 @@ ETL процес завершено успішно
 | 299.99 | 300.0 | budget |
 | 450.50 | 450.5 | budget |
 | 750.75 | 750.8 | premium |
+<img width="1920" height="701" alt="image" src="https://github.com/user-attachments/assets/8e515bca-fac2-4b59-a1f2-3d15b9b7a831" />
+
 
 ## Якщо щось не працює
 
